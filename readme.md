@@ -6,3 +6,4 @@
 * [API-first Architecture Transformation at Etsy](https://www.infoq.com/presentations/etsy-api) - Stefanie Schirmer [43:55]
 * [Don't Rewrite, React!](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) - Ryan Florence [31:10]
 * [Failing (and recovering) asynchronously: a saga](https://www.youtube.com/watch?v=YYIluVvqQH8&feature=youtu.be&a) - Daniel Solano Gómez [28:17]
+* [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g) - Les Hazlewood  [1:23:57]
