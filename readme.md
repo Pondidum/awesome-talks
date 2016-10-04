@@ -8,3 +8,4 @@
 * [Failing (and recovering) asynchronously: a saga](https://www.youtube.com/watch?v=YYIluVvqQH8&feature=youtu.be&a) - Daniel Solano Gómez [28:17]
 * [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g) - Les Hazlewood  [1:23:57]
 * [Domain modelling with the F# type system](https://vimeo.com/97507575) - Scott Wlaschin [1:03:40]
+* [GOTO 2016 • Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - R. Meshenberg [48:30]
