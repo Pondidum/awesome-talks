@@ -10,6 +10,7 @@
 * [Domain modelling with the F# type system](https://vimeo.com/97507575) - Scott Wlaschin [1:03:40]
 * [GOTO 2016 • Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - R. Meshenberg [48:30]
 * [It is not just Microservices](https://www.youtube.com/watch?v=_dSA71NjVFE) - Fred George [46:48]
+* [1337Spe4k • What is DevOps and how can it help my business succeed?](https://vimeo.com/108441215) - Paul Stack [59:13]
 
 ## Pending
 * [QCon 2013 Keynote - 8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
