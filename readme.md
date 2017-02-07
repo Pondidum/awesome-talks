@@ -14,6 +14,7 @@
 * [GOTO 2015 • From Homogeneous Monolith to Radically Heterogeneous Microservices](https://www.youtube.com/watch?v=sAsRtZEGMMQ)- C. Fowler [56:23]
 * [Greg Young - 8 Lines Of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
 * [DDD Exchange 2011 - Assert.That(We.Understand)](https://skillsmatter.com/skillscasts/1947-talk-from-greg-young) - Greg Young [47:49]
+* [GOTO 2016 • Building Theories is Building Value](https://www.youtube.com/watch?v=Led34f3Pcq4&t=2211s) - George Fairbanks [51:31]
 
 ## Pending
 * [QCon 2013 Keynote - 8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
