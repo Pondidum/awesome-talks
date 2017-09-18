@@ -19,6 +19,7 @@
 * [SkillsMatter - DDD Mystery Talk](https://skillsmatter.com/skillscasts/3048-mystery-ddd) - Greg Young [46:53]
 * [Cascadia Ruby Conf 2012 - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) - Katrina Owen [26:04]
 * [CodeNode - The Elephant In the Room (event versioning)](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room) - Greg Young [49:28]
+* [NDC Oslo 17 - Microservices and Rules Engines](https://www.youtube.com/watch?v=Fuac__g928E) - Udi Dahan [52:48]
 
 ## Pending
 * [QCon 2013 Keynote - 8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
