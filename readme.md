@@ -20,6 +20,9 @@
 * [Cascadia Ruby Conf 2012 - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) - Katrina Owen [26:04]
 * [CodeNode - The Elephant In the Room (event versioning)](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room) - Greg Young [49:28]
 * [NDC Oslo 17 - Microservices and Rules Engines](https://www.youtube.com/watch?v=Fuac__g928E) - Udi Dahan [52:48]
+* [GOTO 2017 • Feature Branches and Toggles in a Post-GitHub World](https://www.youtube.com/watch?v=lqRQYEHAtpk) - Sam Newman [49:57]
+* [How To Measure Your Continuous Delivery Journey](https://vimeo.com/206044745) - Steve Smith [46:02]
+
 
 ## Pending
 * [QCon 2013 Keynote - 8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
