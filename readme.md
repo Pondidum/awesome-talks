@@ -23,6 +23,7 @@
 * [GOTO 2017 • Feature Branches and Toggles in a Post-GitHub World](https://www.youtube.com/watch?v=lqRQYEHAtpk) - Sam Newman [49:57]
 * [How To Measure Your Continuous Delivery Journey](https://vimeo.com/206044745) - Steve Smith [46:02]
 * [GOTO 2018 • Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) - Liz Rice [42:53]
+* [Systems @Scale 2018 – Rebuilding the Inbox: The Corporate and Cultural Adventures of Modernizing Yahoo Mail](https://www.facebook.com/atscaleevents/videos/2131701657102927/) - Jeff Bonforte [41:31]
 
 ## Pending
 * [QCon 2013 Keynote - 8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
