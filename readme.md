@@ -25,6 +25,7 @@
 * [GOTO 2018 • Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) - Liz Rice [42:53]
 * [Systems @Scale 2018 – Rebuilding the Inbox: The Corporate and Cultural Adventures of Modernizing Yahoo Mail](https://www.facebook.com/atscaleevents/videos/2131701657102927/) - Jeff Bonforte [41:31]
 * [StrangeLoop - The Security of Classic Game Consoles](https://www.youtube.com/watch?v=s0XmiXs8iRw) - Kevin Shekleton [35:23]
+* [Applied Performance Theory](https://www.infoq.com/presentations/little-usl-scalability-performance) - Kavya Joshi [36:52]
 
 ## Pending
 * [QCon 2013 Keynote - 8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
