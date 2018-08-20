@@ -28,4 +28,3 @@
 * [Applied Performance Theory](https://www.infoq.com/presentations/little-usl-scalability-performance) - Kavya Joshi [36:52]
 
 ## Pending
-* [QCon 2013 Keynote - 8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young [45:20]
