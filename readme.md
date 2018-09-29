@@ -26,5 +26,6 @@
 * [Systems @Scale 2018 – Rebuilding the Inbox: The Corporate and Cultural Adventures of Modernizing Yahoo Mail](https://www.facebook.com/atscaleevents/videos/2131701657102927/) - Jeff Bonforte [41:31]
 * [StrangeLoop - The Security of Classic Game Consoles](https://www.youtube.com/watch?v=s0XmiXs8iRw) - Kevin Shekleton [35:23]
 * [Applied Performance Theory](https://www.infoq.com/presentations/little-usl-scalability-performance) - Kavya Joshi [36:52]
+* [No Microservice Is an Island](https://www.infoq.com/presentations/microservices-infrastructure) - Michele Titolo [40:35]
 
 ## Pending
